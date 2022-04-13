@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dayes-Joseph
-- 👀 I’m interested in ...🙂
-- 🌱 I’m currently learning ...😁
+- 👀 I’m interested in ...tech🙂
+- 🌱 I’m currently learning ...cse😁
 - 💞️ I’m looking to collaborate on ...😄
 - 📫 How to reach me ...😂
 
